@@ -1,6 +1,7 @@
 package com.ad;
 
-import android.support.v7.app.AppCompatActivity;
+//import android.support.v7.app.AppCompatActivity;
+
 import android.annotation.TargetApi;
 import android.os.Build;
 import android.os.Bundle;
