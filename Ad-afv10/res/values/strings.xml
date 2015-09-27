@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ad</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="b_iniciar">Iniciar</string>
+    <string name="title_activity_pong">PongActivity</string>
+    <string name="tv1_posicionX">x: </string>
+    <string name="tv2_posicionY">y: </string>
+    <string name="tv3_posicionX">X: </string>
+    <string name="tv4_posicionY">Y: </string>
+
+</resources>
